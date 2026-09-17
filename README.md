@@ -9,9 +9,9 @@ The design performs 64-bit addition on operand pairs stored in SRAM: a controlle
 ## Repo structure
 
 ```
-digital_design/    RTL modules, onboarding write-up, waveform screenshots
+digital_design/    RTL modules and onboarding write-up (waveform screenshots are embedded in the write-up)
 verification/      Testbench, test plan, coverage report, simulation log
-physical_design/   OpenLane physical design flow write-up and screenshots
+physical_design/   OpenLane physical design flow write-up (screenshots embedded in the write-up)
 ```
 
 ## Digital Design
